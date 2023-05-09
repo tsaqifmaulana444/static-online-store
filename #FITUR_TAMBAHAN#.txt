@@ -1,0 +1,3 @@
+sidebar
+data ke halaman ke2 dinamis
+card dapat di scroll
